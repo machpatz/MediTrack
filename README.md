@@ -83,6 +83,5 @@ Developed as an academic Information Technology project. Features and functional
 
 ## Developer
 AlphaTech Digital Solutions
-The Nairobi National Polytechnic (TNNP)
 
 ## 
